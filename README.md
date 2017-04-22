@@ -1,4 +1,7 @@
-# test coverage for  [grunt-jsonlint (v1.1.0)](https://github.com/brandonramirez/grunt-jsonlint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-jsonlint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-jsonlint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-jsonlint.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-jsonlint)
+# npmtest-grunt-jsonlint
+
+#### basic test coverage for  [grunt-jsonlint (v1.1.0)](https://github.com/brandonramirez/grunt-jsonlint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-jsonlint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-jsonlint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-jsonlint.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-jsonlint)
+
 #### Validate JSON files from grunt.
 
 [![NPM](https://nodei.co/npm/grunt-jsonlint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-jsonlint)
@@ -95,7 +98,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
